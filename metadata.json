@@ -1,0 +1,8 @@
+{
+  "name": "Pramaan",
+  "description": "Secure national identity verification dashboard with multi-stage AI-driven checks.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
